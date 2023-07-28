@@ -34,7 +34,7 @@
 #### Pull Request
 
 - [Programmers] - [본인 이름] 
-- [Algorithm] - [InsertionSort] InsertionSort.md
+- [Algorithm] - [InsertionSort] insertion_sort_lma.md
 
 #### Commit Message
 
