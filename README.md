@@ -34,13 +34,13 @@
 #### Pull Request
 
 - [Programmers] - [본인 이름] 
-- [Algorithm] - [InsertionSort] insertion_sort_lma.md
+- [Algorithm] - [InsertionSort] insertion_sort_ma.md
 
 #### Commit Message
 
 #Docs: 문서를 추가, 수정 하는 경우 
-- Docs : [Programmers][Week01] lma
-- Docs : [Algorithm][InsertionSort] lma
+- Docs : add week01 files
+- Docs : add insertion_sort_ma.md
   
 #Rename: 파일 혹은 폴더명을 수정하거나 옮기는 작업만인 경우
 
