@@ -64,6 +64,6 @@
 | **Week** | **Algorithm**          | **Myung A**    | **SeoJeong**  | **SuYeon**   | **진행 현황** |
 | -------- | ---------------------- | -------------- | --------------| ------------ | --------------|
 | Week01   | Insertion Sort & Selection Sort        | Selection | Insertion  |  Selection | `완료`     |
-| Week02   |                        |                |               |              |               |
+| Week02   |                        |    merge            |        quick       |      bubble        |               |
 | Week03   |                        |                |               |              |               |
 | Week04   |                        |                |               |              |               |
