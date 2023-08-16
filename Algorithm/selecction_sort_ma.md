@@ -1,4 +1,4 @@
-# Insertion Sort
+# Selection Sort
 
 ### 정의
 #

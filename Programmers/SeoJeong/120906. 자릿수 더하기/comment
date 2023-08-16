@@ -1,0 +1,54 @@
+문자열로 바꿔준 다음에 나열해주고 다시 숫자로 변경해서 더해주면 될줄 알았다..
+
+class Solution {
+    public int solution(int n) {
+        int answer = 0;
+        // 문자열로 바꿔줌
+        String num = Integer.toString(n);
+        
+        for( int i = 0; i < num.length(); i++){
+            int numm = Integer.parseInt(num[i]);
+            answer += numm;
+        }
+        return answer;
+    }
+}
+
+당연히 안됐음. 문자열의 각 문자들을 숫자로 변환하려면 아스키 코드를 이용해야한다
+
+class Solution {
+    public int solution(int n) {
+        int answer = 0;
+        String numStr = Integer.toString(n);
+        
+        for (int i = 0; i < numStr.length(); i++) {
+            answer += numStr.charAt(i) - '0'; 
+        }
+        
+        return answer;
+    }
+}
+
+문자열을 다시 숫자로 변환하려면 아스키코드 사용해서 -'0' 을 해야한다고 함 - 정수 0 이랑은 다른 형태임 ! 
+
+참고로 다른 사람의 풀이를 보니까 이게 훨씬 좋다.
+나머지와 몫을 이용해서 더하는 건데, 주어진 수를 10으로 계속 나누면서 각 자리의 숫자를 더하는 것이다.
+이러면 굳이 문자열 출력하지 않아도 각 자릿수를 뽑아낼 수 있으니까 훨씬 효율적..!
+
+예시 : n = 12345
+결과 : 15
+  
+class Solution {
+    public int solution(int n) {
+        int answer = 0;
+  
+        while(n>0){ 
+            answer+=n%10;
+            n/=10;
+        }
+
+        return answer;
+    }
+}
+
+
