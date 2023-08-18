@@ -54,15 +54,15 @@
 |  **Week**  |   **Myung A**  |  **SeoJeong**  |   **SuYeon**   | **진행 현황** |
 | :--------: | :------------: | :------------: | :------------: | :-----------: |
 | **Week01** |     60/100     |     25/100     |     50/100     |     `완료`    |
-| **Week02** |     94/100     |     55/100     |     87/100     |    `진행 중`  |
-| **Week03** |       /100     |       /100     |       /100     |               |
-| **Week04** |       /100     |       /100     |       /100     |               |
+| **Week02** |     94/100     |     55/100     |     87/100     |     `완료`    |
+| **Week03** |   0 단계 완료   |       /100     |       /100     |    `진행 중`  |
+| **Week04** |       /77      |       /100     |       /100     |               |
 
 #### Algorithm
 
 |  **Week**  |           **Algorithm**         |   **Myung A**  |  **SeoJeong**  |   **SuYeon**   | **진행 현황** |
 | :--------: | :-----------------------------: | :------------: | :------------: | :------------: | :-----------: |
 | **Week01** |   Insertion & Selection Sort    |    Selection   |    Insertion   |    Selection   |     `완료`    |
-| **Week02** |   Merge / Quick / Bubble Sort   |      Merge     |      Quick     |      Bubble    |    `완료`  |
-| **Week03** |                                 |    Greedy      |    recursion   |     dfs_bfs    |     `진행 중`    |
+| **Week02** |   Merge / Quick / Bubble Sort   |      Merge     |      Quick     |      Bubble    |     `완료`    |
+| **Week03** |  Greedy / Recursion / Dfs_Bfs   |    Greedy      |    recursion   |     dfs_bfs    |   `진행 중`   |
 | **Week04** |                                 |                |                |                |               |
