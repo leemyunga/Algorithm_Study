@@ -1,0 +1,26 @@
+import java.util.HashMap;
+
+class Solution {
+    public String solution(String[] participant, String[] completion) {
+        HashMap<String, Integer> hm = new HashMap<String, Integer>();
+		
+        for (String player : participant) {
+            hm.put(player, hm.getOrDefault(player, 0) + 1);
+        }
+		
+        for (String player : completion) {
+            hm.put(player, hm.get(player) - 1);
+        }
+		
+        String answer = "";
+		
+        for (String key : hm.keySet()) {
+            if (hm.get(key) > 0) {
+                answer = key;
+                break;
+            }
+        }
+        
+        return answer;
+    }
+}
