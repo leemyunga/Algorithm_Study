@@ -55,14 +55,36 @@
 | :--------: | :------------: | :------------: | :------------: | :-----------: |
 | **Week01** |     60/100     |     25/100     |     50/100     |     `완료`    |
 | **Week02** |     94/100     |     55/100     |     87/100     |     `완료`    |
-| **Week03** |   0 단계 완료   |       /100     |       /100     |    `진행 중`  |
-| **Week04** |       /77      |       /100     |       /100     |               |
+| **Week03** |   0단계 완료   |   0단계 완료   |       /100     |     `완료`    |
+| **Week04** |     19/77      |     10/77      |       /100     |     `완료`    |
+
+
+|  **Week**  |   **Myung A**  |  **SeoJeong**  |   **SuYeon**   | **진행 현황** |
+| :--------: | :------------: | :------------: | :------------: | :-----------: |
+| **Week05** |        /20     |        /20     |        /20     |  `진행 예정`  |
+| **Week06** |        /15     |        /15     |        /15     |  `진행 예정`  |
+| **Week07** |        /15     |        /15     |        /15     |  `진행 예정`  |
+| **Week08** |        /10     |        /10     |        /10     |  `진행 예정`  |
+| **Week09** |        /10     |        /10     |        /10     |  `진행 예정`  |
+
+
 
 #### Algorithm
 
-|  **Week**  |           **Algorithm**         |   **Myung A**  |  **SeoJeong**  |   **SuYeon**   | **진행 현황** |
-| :--------: | :-----------------------------: | :------------: | :------------: | :------------: | :-----------: |
-| **Week01** |   Insertion & Selection Sort    |    Selection   |    Insertion   |    Selection   |     `완료`    |
-| **Week02** |   Merge / Quick / Bubble Sort   |      Merge     |      Quick     |      Bubble    |     `완료`    |
-| **Week03** |  Greedy / Recursion / Dfs_Bfs   |    Greedy      |    recursion   |     dfs_bfs    |   `진행 중`   |
-| **Week04** |                                 |    최대공약수   |    피보나치    |     하노이     |               |
+|  **Week**  |                **Algorithm**             |   **Myung A**  |  **SeoJeong**  |   **SuYeon**   | **진행 현황** |
+| :--------: | :--------------------------------------: | :------------: | :------------: | :------------: | :-----------: |
+| **Week01** |         Insertion & Selection Sort       |    Selection   |    Insertion   |    Selection   |     `완료`    |
+| **Week02** |         Merge / Quick / Bubble Sort      |      Merge     |      Quick     |      Bubble    |     `완료`    |
+| **Week03** |        Greedy / Recursion / Dfs_Bfs      |     Greedy     |    recursion   |     Dfs_Bfs    |     `완료`    |
+| **Week04** |  GCD & LCM / Fibonacci / Tower of Hanoi  |     GCD_LCM    |    Fibonacci   | Tower of Hanoi |     `완료`    |
+
+
+### Interview
+
+|  **Week**  |                **Interview**             | **진행 현황** |
+| :--------: | :--------------------------------------: | :-----------: |
+| **Week05** |                자바 & 스프링             |   `진행 예정`  |
+| **Week06** |                    디비                  |   `진행 예정`  |
+| **Week07** |                  네트워크                |   `진행 예정`  |
+| **Week08** |            자료구조 & 알고리즘           |   `진행 예정`  |
+| **Week09** |                 디자인패턴               |   `진행 예정`  |
