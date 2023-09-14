@@ -95,3 +95,8 @@
 [A] 
 
 <br>
+
+### [Q] JPA (Java Persistence API) 란?
+[A] 
+
+<br>
