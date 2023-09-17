@@ -1,46 +1,68 @@
 # DB
 
-### [Q] DBMS란?
+
+### [Q] Data, Information란?
 [A] 
 
 <br>
 
-### [Q] RDBMS란?
+### [Q] Database란?
 [A] 
 
 <br>
 
-### [Q] RDBMS와 NO-SQL의 차이
+### [Q] DBMS(Database Management System)란? 
 [A] 
 
 <br>
 
-### [Q] 트랜잭션이란?
+### [Q] RDBMS(Relation DBMS)란?
 [A] 
 
 <br>
 
-### [Q] ACID란?
+### [Q] NO-SQL(Not Only SQL)란?
 [A] 
 
 <br>
 
-### [Q] 정규화와 비정규화의 개념
+### [Q] SQL란?
 [A] 
 
 <br>
 
-### [Q] 인덱스란?
+
+### [Q] HAVING vs WHERE
 [A] 
 
 <br>
 
-### [Q] PK와 FK의 개념
+### [Q] TRUNCATE vs DELETE vs DROP
 [A] 
 
 <br>
 
-### [Q] 무결성이란?
+### [Q] SQL Injection이란?
+[A] 
+
+<br>
+
+### [Q] ERD란?
+[A] 
+
+<br>
+
+### [Q] KEY의 정의와 종류
+[A] 
+
+<br>
+
+### [Q] PK(Primary Key)와 FK(Foreign Key)
+[A] 
+
+<br>
+
+### [Q] 무결성의 정의와 종류
 [A] 
 
 <br>
@@ -55,32 +77,17 @@
 
 <br>
 
-### [Q] 데이터(Data)와 정보(Information)의 차이
+### [Q] 트랜잭션(Transaction)이란?
 [A] 
 
 <br>
 
-### [Q] KEY에 대해 설명
+### [Q] 교착상태(Deadlock)란?
 [A] 
 
 <br>
 
-### [Q] 교착상태란?
-[A] 
-
-<br>
-
-### [Q] view, Index, Trigger에 대한 설명
-[A] 
-
-<br>
-
-### [Q] LOCK이란?
-[A] 
-
-<br>
-
-### [Q] 블로킹(Blocking)과 데드락(Deadlock) 차이
+### [Q] 블로킹(Blocking) VS 교착상태(Deadlock)
 [A] 
 
 <br>
@@ -90,32 +97,52 @@
 
 <br>
 
-### [Q] SQL란?
+### [Q] 정규화란?
 [A] 
 
 <br>
 
-### [Q] ERD란?
+### [Q] 비정규화(역정규화 , 반정규화)란?
 [A] 
 
 <br>
 
-### [Q] JDBV, ODBC의 차이
+### [Q] 인덱스(Index)란?
 [A] 
 
 <br>
 
-### [Q] HAVING과 WHERE 차이
+### [Q] 뷰(View)란?
 [A] 
 
 <br>
 
-### [Q] TRUNCATE, DELETE, DROP 차이
+### [Q] 트리거(Trigger)란?
 [A] 
 
 <br>
 
-### [Q] SQL 인젝션이란?
+### [Q] 옵티마이저(Optimizer)란?
+[A] 
+
+<br>
+
+### [Q] JDBC vs ODBC
+[A] 
+
+<br>
+
+### [Q] ORM(Object Relation Mapping)란?
+[A] 
+
+<br>
+
+### [Q] Mybatis vs JPA
+[A] 
+
+<br>
+
+### [Q] JDBC vs ODBC
 [A] 
 
 <br>
