@@ -31,7 +31,6 @@
 
 <br>
 
-
 ### [Q] HAVING vs WHERE
 [A] 
 
@@ -123,11 +122,6 @@
 <br>
 
 ### [Q] 트리거(Trigger)란?
-[A] 
-
-<br>
-
-### [Q] 옵티마이저(Optimizer)란?
 [A] 
 
 <br>
