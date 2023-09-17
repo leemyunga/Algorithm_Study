@@ -26,7 +26,7 @@
 
 <br>
 
-### [Q] SQL란?
+### [Q] SQL(Structured Query Language)란?
 [A] 
 
 <br>
@@ -47,7 +47,7 @@
 
 <br>
 
-### [Q] ERD란?
+### [Q] ERD(Entity Relationship Diagram)란?
 [A] 
 
 <br>
@@ -78,6 +78,11 @@
 <br>
 
 ### [Q] 트랜잭션(Transaction)이란?
+[A] 
+
+<br>
+
+### [Q] DBLock이란?
 [A] 
 
 <br>
@@ -127,12 +132,7 @@
 
 <br>
 
-### [Q] JDBC vs ODBC
-[A] 
-
-<br>
-
-### [Q] ORM(Object Relation Mapping)란?
+### [Q] ORM(Object Relation Mapping)이란?
 [A] 
 
 <br>
@@ -142,7 +142,7 @@
 
 <br>
 
-### [Q] JDBC vs ODBC
+### [Q] JDBC (Java Database Connectivity) vs ODBC (Open Database Connectivity)
 [A] 
 
 <br>
