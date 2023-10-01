@@ -21,7 +21,7 @@ List는 데이터의 크기가 정해져있지 않고, 데이터의 삽입/삭�
 
 <br>  
   
-### \[Q\] Array vs ArrayList vs LinkedList  
+### \[Q\] Array vs ArrayList vs LinkedList  
 \[A\]
 
 Array는 고정된 크기의 데이터 구조로 생성할 때 크기를 지정하여 크기를 변경할 수 없습니다.
@@ -44,7 +44,7 @@ LinkedList는 데이터의 추가/삭제가 빈번하게 발생하며, 랜덤 �
   
 <br>  
   
-### \[Q\] Stack vs Queue  
+### \[Q\] Stack vs Queue  
 \[A\]
 
 스택(Stack)과 큐(Queue)는 데이터를 저장하고 관리하는 데 사용되는 두 가지 주요 추상 데이터 타입(ADT)입니다. 
@@ -63,14 +63,14 @@ LinkedList는 데이터의 추가/삭제가 빈번하게 발생하며, 랜덤 �
   
 <br>  
   
-### \[Q\] 우선 순위 큐  
+### \[Q\] 우선 순위 큐  
 \[A\]
 
 우선순위 큐(Priority Queue)는 먼저 들어오는 데이터가 아니라, 우선순위가 높은 데이터가 먼저 나가는 형태의 자료구조로 일반적으로 힙(Heap)을 이용하여 구현합니다.  
   
 <br>  
   
-### \[Q\] Heap  
+### \[Q\] Heap  
 \[A\]
 
 힙(Heap)은 우선순위 큐를 위해 고안된 완전이진트리 형태의 자료구조로 여러 개의 값 중 최댓값 또는 최솟값을 찾아내는 연산을 빠르게 수행합니다. 
@@ -90,7 +90,7 @@ LinkedList는 데이터의 추가/삭제가 빈번하게 발생하며, 랜덤 �
   
 <br>  
   
-### \[Q\] Tree  
+### \[Q\] Tree  
 \[A\]
 
 트리(Tree)란 계층적인 구조를 나타내는 자료구조로, 스택(Stack)과 큐(Queue)와 같은 선형 구조와 달리 트리는 비선형 구조이며, 나무를 거꾸로 그린 형태입니다.
@@ -115,14 +115,14 @@ LinkedList는 데이터의 추가/삭제가 빈번하게 발생하며, 랜덤 �
   
 <br>  
   
-### \[Q\] Hash Table란?  
+### \[Q\] Hash Table란?  
 \[A\]
 
 해시 테이블이란 연관배열 구조를 이용하여 (Key, Value)로 데이터를 저장하는 자료구조로, 빠르게 데이터를 검색할 수 있는 자료구조입니다. 
   
 <br>  
   
-### \[Q\] Hash Map vs Hash Table  
+### \[Q\] Hash Map vs Hash Table  
 \[A\]
 
 해시함수를 사용하여 키를 해시값으로 매핑하고, 이 해시값을 색인(Index) 혹은 주소 삼아 데이터의 값(value)을 키와 함께 저장하는 자료구조를 해시 테이블(Hash Table) 혹은 해시맵(Hash Map)이라고 합니다. 
@@ -137,7 +137,7 @@ LinkedList는 데이터의 추가/삭제가 빈번하게 발생하며, 랜덤 �
   
 <br>  
   
-### \[Q\] BST(Binary Search Tree)란?  
+### \[Q\] BST(Binary Search Tree)란?  
 \[A\]
 
 이진 탐색 트리(Binary Search Tree, BST)란 왼쪽 자식은 부모보다 작고 오른쪽 자식은 부모보다 큰 이진 트리입니다.
