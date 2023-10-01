@@ -86,7 +86,9 @@ LinkedList는 데이터의 추가/삭제가 빈번하게 발생하며, 랜덤 �
 최소힙 (Min Heap)은 부모 노드의 키 값이 자식 노드보다 작거나 같은 완전이진트리입니다.
 
 **참고자료**
-[https://suyeon96.tistory.com/31](https://suyeon96.tistory.com/31)  
+<br>  
+힙설명 - [https://suyeon96.tistory.com/31](https://suyeon96.tistory.com/31)  
+트리설명 - [https://velog.io/@dlgosla/CS-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%9D%B4%EC%A7%84-%ED%8A%B8%EB%A6%AC-Binary-Tree-vzdhb2sp](https://velog.io/@dlgosla/CS-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%9D%B4%EC%A7%84-%ED%8A%B8%EB%A6%AC-Binary-Tree-vzdhb2sp)
   
 <br>  
   
