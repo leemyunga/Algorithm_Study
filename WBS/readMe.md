@@ -2,7 +2,7 @@
 
 - 달마다 계획을 세우기 위해서 WBS를 선택적으로 시행해보고자 합니다.
 
-## 링크
+## 공유 드라이브 링크
 https://drive.google.com/drive/folders/1i74bSGinGkkEX-7jiPPtQsXNKRmdE5Ip?usp=sharing
   
 
