@@ -11,7 +11,7 @@ https://drive.google.com/drive/folders/1i74bSGinGkkEX-7jiPPtQsXNKRmdE5Ip?usp=sha
 엑셀 파일이라 방법은 2가지가 있습니다. 
 
 1. 깃허브에서 다운로드 후 변경 후 기존거 삭제 시키고 재업로드
-2. 링크로 넘어가서 업데이트 하기
+2. 공유 드라이브 링크로 넘어가서 엑셀파일 업데이트 하기
 
 ## 내용
 
