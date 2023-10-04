@@ -18,5 +18,8 @@ https://drive.google.com/drive/folders/1i74bSGinGkkEX-7jiPPtQsXNKRmdE5Ip?usp=sha
 1. WebWorkBook , CodeTest, CS 세가지 탭이 있습니다.
 2. 각자 원하는 계획을 자유롭게 WBS에 채워 넣으면 됩니다.
 
+## 워크북 링크
+
+https://product.kyobobook.co.kr/detail/S000061549872
 
 감사합니다.
